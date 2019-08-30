@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masha.FoundExt.Kafka", "Masha.FoundExt.Kafka\Masha.FoundExt.Kafka.csproj", "{A3E1DCF5-7041-41B6-9569-789340891768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masha.FoundExt.Kafka.Test", "..\test\Masha.FoundExt.Kafka.Test\Masha.FoundExt.Kafka.Test.csproj", "{55A1EE26-EC07-48D7-80E8-01564EF521E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masha.FoundExt.Kafka.Producer.Test", "..\test\Masha.FoundExt.Kafka.Producer.Test\Masha.FoundExt.Kafka.Producer.Test.csproj", "{70B48A79-8431-4317-BA91-103AE491E43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E1DCF5-7041-41B6-9569-789340891768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E1DCF5-7041-41B6-9569-789340891768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E1DCF5-7041-41B6-9569-789340891768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E1DCF5-7041-41B6-9569-789340891768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A1EE26-EC07-48D7-80E8-01564EF521E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A1EE26-EC07-48D7-80E8-01564EF521E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A1EE26-EC07-48D7-80E8-01564EF521E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A1EE26-EC07-48D7-80E8-01564EF521E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B48A79-8431-4317-BA91-103AE491E43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B48A79-8431-4317-BA91-103AE491E43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B48A79-8431-4317-BA91-103AE491E43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B48A79-8431-4317-BA91-103AE491E43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD948E4B-1F0E-49A0-A5D9-95A471D4D989}
+	EndGlobalSection
+EndGlobal
